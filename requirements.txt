@@ -11,4 +11,4 @@ datetime
 re
 tempfile
 os
-imageio
+imageio.v2
